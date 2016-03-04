@@ -1,0 +1,109 @@
+Base path: E:/programing/unity32/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-12516
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=979 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=990 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=990 outsize=843 kw= pd= ok=1
+Cmd: preprocess
+  insize=964 outsize=286 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (35): syntax error: unexpected token ')'\nCompiling Vertex program
+  api=4 type=0 insize=975 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=963 outsize=286 ok=1
+Cmd: preprocess
+  insize=959 outsize=286 ok=1
+Cmd: preprocess
+  insize=959 outsize=285 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (35): 'tex2D': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2D(sampler2D, float2|half2|min10float2|min16float2) tex2D(sampler2D, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2)\nCompiling Vertex program
+  error: 2 plat 4 at (35): invalid subscript 'vu'\nCompiling Vertex program
+  api=4 type=0 insize=970 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=963 outsize=286 ok=1
+Cmd: preprocess
+  insize=963 outsize=286 ok=1
+Cmd: preprocess
+  insize=963 outsize=286 ok=1
+Cmd: preprocess
+  insize=979 outsize=284 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=990 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=990 outsize=851 kw= pd= ok=1
+Cmd: preprocess
+  insize=959 outsize=286 ok=1
+Cmd: preprocess
+  insize=977 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=988 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=988 outsize=721 kw= pd= ok=1
+Cmd: preprocess
+  insize=959 outsize=286 ok=1
+Cmd: preprocess
+  insize=977 outsize=285 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=988 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=988 outsize=681 kw= pd= ok=1
+Cmd: preprocess
+  insize=959 outsize=286 ok=1
+Cmd: preprocess
+  insize=960 outsize=285 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=971 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=971 outsize=681 kw= pd= ok=1
+Cmd: preprocess
+  insize=989 outsize=286 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (35): undeclared identifier 'uv'\nCompiling Vertex program
+  api=4 type=0 insize=1000 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=991 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1002 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1002 outsize=754 kw= pd= ok=1
+Cmd: preprocess
+  insize=999 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1010 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1010 outsize=721 kw= pd= ok=1
+Cmd: preprocess
+  insize=991 outsize=286 ok=1
+Cmd: preprocess
+  insize=991 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1002 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1002 outsize=754 kw= pd= ok=1
+Cmd: preprocess
+  insize=999 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1010 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1010 outsize=616 kw= pd= ok=1
+Cmd: preprocess
+  insize=1003 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1014 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1014 outsize=884 kw= pd= ok=1
+Cmd: preprocess
+  insize=1003 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1014 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1014 outsize=884 kw= pd= ok=1
+Cmd: preprocess
+  insize=1119 outsize=286 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1130 outsize=1071 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1130 outsize=884 kw= pd= ok=1

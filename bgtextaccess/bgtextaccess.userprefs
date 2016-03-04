@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CustomCameraScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BackgroundRectify.cs" Line="16" Column="1" />
+      <File FileName="Assets\Shaders\rectify.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackgroundRectifyRight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\rectifyRight.shader" Line="35" Column="116" />
+      <File FileName="Assets\CustomCameraScript.cs" Line="55" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\proj\vuforia_rectify\trunk\bgtextaccess\Assets\Scripts\BackgroundRectifyRight.cs" line="82" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
